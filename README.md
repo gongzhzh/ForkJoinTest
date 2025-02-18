@@ -9,9 +9,13 @@ make compile
 #make sequential_small
 
 #Run parallelism on map small, with forkAfter equal to 3 or to 9:
+
 make parallel_small_step3
+
 make parallel_small_step9
 
 #Run parallelism on map medium, with forkAfter equal to 3 or to 9:
+
 make parallel_medium_step3
+
 make parallel_medium_step9
