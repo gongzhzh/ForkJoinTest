@@ -1,5 +1,5 @@
 # ForkJoinTest
-repository for a Fork&amp;Join lab session of concurrent programming 
+
 This is the parallel version of a sequential search algorithm, using the fork/join model. The goal of the search is finding a goal inside a maze taking advantage of parallelism.
 
 #Authors: 
